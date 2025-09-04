@@ -1,3 +1,5 @@
+This repository is archived, if you need a fast way to screen for (colibactin) genes, use [kbo](https://github.com/tmaklin/kbo).
+
 # clbtype
 
 Command-line tool for screening _E. coli_ assemblies for the presence
